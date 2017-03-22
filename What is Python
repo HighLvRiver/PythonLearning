@@ -78,8 +78,14 @@ Anaconda Prompt
 IPython
 Jupyter Notebook
 Jupyter QTConsole
-Spyder
+Spyder 
+ - Scientific Python Development Environment. 
+ - Powerful Python IDE with advanced editing, interacive testing, debugging and introspection features.
 ```
+# IDE : Integrated Development Environment
+# 효율적으로 소프트웨어를 개발하기 위한 통합개발환경 소프트웨어 어플리케이션 인터페이스이다. 
+# 코드 편집기, 디버거, 컴파일러, 인터프리터 등을 포함하고 개발자에게 제공한다
+# Spyder는 matlab에 가깝고, PyCharm은 Visual Studio에 가깝다.
 
 5. 아나콘다를 활용한 패키지 설치 : Environments -> Search Packages
 
