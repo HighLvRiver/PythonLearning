@@ -246,7 +246,9 @@ for i in range(n):
     print("{}번째 수열의 값은 {} 입니다.".format(i+1, sum))
 
 
-# In[ ]:
-
-
+# def fibo(n):
+#    if n in (1,2) :
+#        return 1
+#    else :
+#        return fibo(n-1) + fibo(n-2)
 
