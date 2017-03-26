@@ -126,7 +126,9 @@ z
 # diffsum 함수에서 계산된 값이 원래 있던 m 보다 크면 m을 계산된 값으로 바꾸는 함수 diffsum2 를 만든다.
 
 
-
-
-
+# # lambda 라는 치트도 존재한다
+# t = lambda x:x*2+1
+# t(6)
+# t = lambda x: print("test: {}".format(x+3))
+# t(2)
 
