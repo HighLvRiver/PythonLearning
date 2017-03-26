@@ -31,6 +31,9 @@ for i in range(10):
 
 for i in range(10):
     print("=" + str(i) + "=")
+    
+# x = [i ** 2 for i in range(10)]
+# x
 
 
 # 연습문제1.
