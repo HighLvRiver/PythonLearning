@@ -126,6 +126,17 @@ z
 # diffsum 함수에서 계산된 값이 원래 있던 m 보다 크면 m을 계산된 값으로 바꾸는 함수 diffsum2 를 만든다.
 
 
+# None 값을 이용해서 입력 변수의 갯수에 따라 결과가 바뀌게 할 수도 있다.
+def add_numbers(x, y, z = None):
+    if(z == None):
+        return x + y
+    else :
+        return x + y + z
+    
+print(add_numbers(1, 2))
+print(add_numbers(1, 2, 3))
+    
+
 # # lambda 라는 치트도 존재한다
 # t = lambda x:x*2+1
 # t(6)
