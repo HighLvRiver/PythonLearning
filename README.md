@@ -8,3 +8,4 @@
     - https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content
   - K-MOOC
     - http://www.kmooc.kr/courses/course-v1:GachonUnivK+ACE.GachonUnivK01+2016_01/info
+  - Data Quest : https://dataquest.io
